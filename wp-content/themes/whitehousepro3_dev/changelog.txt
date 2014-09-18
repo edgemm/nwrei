@@ -1,0 +1,110 @@
+****************************
+
+  WhiteHousePro Release Notes: 
+
+****************************
+Version 3.1.3
+- multisite test. comptability
+
+Version 3.1.2
+- get_template_part function added
+- backwards compatible dropdowns
+
+Version 3.1.0
+- Comments
+- Fixed PHP warnings
+- rewrote options handling
+- removed deprecated
+- removed pagecomments options (now follow WP standard for pages)
+
+Version 3.0.9
+- IE7 sub nav fix
+
+Version 3.0.8
+- wp_nav backwards
+
+Version 3.0.7
+- feature nav fix
+
+Version 3.0.6
+- play/pause feature nav fix
+
+Version 3.0.5
+- get_links deprecated
+- ngettext deprecated
+
+Version 3.0.4
+- IE7 menu fix
+
+Version 3.0.3
+- Added positions for menus
+- Menus Support Option
+- Changed PRO to PAGELINES_PRO re: plugin conflicts
+
+Version 3.0.2
+- IE7 Single post fix
+- Fixed tags bug
+- Fixed feature link bug in IE7
+- Fixed feature navigation bug on mult. pages
+- post-footer Facebook icon / icon changes
+
+Version 3.0.1
+- Core version 3.1.6
+
+Version 3.0.0
+- New feature modes (thumbs, names)
+- New carousel modes (NextGen Gallery, Post thumbs)
+- Graphical improvements
+- New footer
+- New widgetized areas 
+- New page/post options
+- New options (font-replacement, feature slider on blog, various others...)
+- New header icons
+- Feature/FBox on any page
+- Bug fixes
+
+Version 2.1.3
+- Image fixes
+- Sticky post
+
+Version 2.1.1
+- Wp 2.9 thumbnail fix
+- Optimizations
+
+Version 2.1.0
+- Support for WP 2.9’s thumbnail feature
+- Support for WhiteHousePro forum integration
+- Ads  - Added support for WP125, deprecated Ad-Minister
+- Search page fixes
+- More Localization Fixes
+- Bug fixes and optimizations
+
+Version 2.0.2
+- Drop-down improvements
+- Date format fix
+
+Version 2.0.0
+- Drop-down improvements
+- Date format fix
+- Complete Options Framework Rewrite + Design
+     - Note: upgrade won't erase options
+- Javascript compatibility
+- Localization (added text domain)
+- Drop-down navigation option
+- Hide search option
+- Partner link option
+- Meme Link Options
+- Category Items as Subnav on posts page
+- Debug mode
+- Feature page options
+     - additional transitions
+     - feature background css
+- No default sidebar option
+- Carousel Page Template
+- Highlight Page Template
+- Structure rewrite
+- Icon & Graphic improvements
+- More options (miscellaneous)
+
+
+** Start Changelog tracking **
